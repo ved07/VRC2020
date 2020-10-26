@@ -11,3 +11,7 @@ __driver code example__: https://drive.google.com/file/d/1zoTvzIhjEMMRQxeaOR1ZmB
 
 the project involved iterative testing on code to program a vex robot to A) respond with the VEX EDR controller and B) Complete the autonomous routine 
 the code has been worked on and tuned since october 2020 with the earliest evidence of this code running avaliable is here from the 2019 Stowe Buckingham Regional in December: https://drive.google.com/file/d/13K4C6IwXIQ0PjLwmRi_32r88gwqjBDlG/view?usp=sharing 
+
+
+_note that to read the code you should download VEXcode Pro V5 - v2.0.1 at https://www.vexrobotics.com/vexcode-download 
+ 
